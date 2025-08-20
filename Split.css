@@ -47,11 +47,6 @@ body{
     width: 100%;
     transition: 0.3s ease;
 }
-.btn:hover{
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-}
-
 @media (max-width: 768px) {
     .card {
         padding: 16px;
@@ -71,4 +66,5 @@ body{
     .input-ar {
         font-size: 0.9rem;
     }
+
 }
